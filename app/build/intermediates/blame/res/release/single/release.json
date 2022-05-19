@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_rewind.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_music.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_music.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_previous.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_play.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_forward.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_previous.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_forward.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_pause.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_forward.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_next.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_music.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_music.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_play.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_rewind.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_rewind.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_rewind.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_music.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_music.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_forward.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_forward.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_previous.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_play.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_play.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_play.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_forward.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_next.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_p2.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable\\p2.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_music.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_music.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_previous.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_forward.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_rewind.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_rewind.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_music.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_music.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_next.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_p3.jpg.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable\\p3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_rewind.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_previous.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_previous.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_previous.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_play.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_music.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_music.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_previous.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_rewind.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_music.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_music.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable_list_bg.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\src\\main\\res\\drawable\\list_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_play.png.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_pause.xml.flat",
+        "source": "C:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_pause.xml"
+    }
+]
