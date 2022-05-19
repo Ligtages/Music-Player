@@ -1,0 +1,4 @@
+#Thu May 19 13:36:38 MSK 2022
+base.0=C\:\\Users\\Student\\AndroidStudioProjects\\MusicPlayer2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
