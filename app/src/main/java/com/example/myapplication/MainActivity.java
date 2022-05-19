@@ -46,7 +46,8 @@ public class MainActivity<notification> extends AppCompatActivity {
         listView = (ListView)findViewById(R.id.listView);
         runtimePermission();
 
-        listView.setOnClickListener(new View.OnClickListener() {
+        //код уведомления
+        /*listView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 String message = "[thm";
@@ -75,7 +76,7 @@ public class MainActivity<notification> extends AppCompatActivity {
                 notificationManager.notify(0,builder.build());
 
             }
-        });
+        });*/
     }
 
      /*.withPermission(Manifest.permission.READ_EXTERNAL_STORAGE)
