@@ -266,10 +266,11 @@ public class PlayerActivity extends AppCompatActivity {
             }
         });
 
-        TextView textView = findViewById(R.id.txtSong);
+        //код уведомления
+       /* TextView textView = findViewById(R.id.txtSong);
 
         String message = getIntent().getStringExtra("message");
-        textView.setText(message);
+        textView.setText(message);*/
     }
 
     public void startAnimation(View view, Float degree)
